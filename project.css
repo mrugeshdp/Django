@@ -1,0 +1,53 @@
+body{
+  background-color: #153254;
+  margin: 0px;
+  font: white;
+  font-family: 'Red Rose', cursive;
+  color: white;
+}
+input{
+  width: 200px;
+}
+p{
+  margin: 0px;
+}
+.content{
+  width: auto;
+}
+#colone{
+  height: 100%;
+  background-color: #32a891;
+  width: 50px;
+}
+#head{
+  height: 25px;
+}
+#coltwo{
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+}
+#colthree{
+  height: 100%;
+  background-color: #32a891;
+  width: 50px;
+}
+#paraone{
+  padding: 30px;
+}
+#paratwo{
+  padding: 30px;
+  padding-bottom: 0px;
+}
+#sign{
+  margin: 10px;
+  background-color: yellow;
+  border-radius: 15px;
+  width: 100px;
+  height: 50px;
+}
+#bottom{
+  height: 50px;
+  background-color: #32a891;
+  margin: 0px;
+}

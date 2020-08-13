@@ -1,0 +1,18 @@
+body{
+  background-color: gray;
+}
+
+div{
+  background-color: blue;
+  border-color: red;
+  border-width: 4px;
+  border-style: solid;
+}
+
+p{
+  color: yellow;
+}
+span{
+  background-color: green;
+  color: purple;
+}

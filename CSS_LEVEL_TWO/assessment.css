@@ -1,0 +1,33 @@
+td{
+  background-color: black;
+  height: 200px;
+  width: 100px;
+}
+
+#head{
+  font-family: 'Ranchers', cursive;
+  text-align: center;
+  font-size: 20px;
+}
+.art{
+  margin: auto;
+}
+#one{
+  background-color: #264653;
+}
+
+#two{
+  background-color: #2A9D8F;
+}
+
+#three{
+  background-color: #E9C46A;
+}
+
+#four{
+  background-color: #F4A261;
+}
+
+#five{
+  background-color: #E76F51;
+}
